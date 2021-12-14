@@ -4,7 +4,7 @@ layout: ada
 
 
 
-# Snowden's revelations 
+# MICNHIA 
 
 In June 2013, Snowden reveals to the whole world shocking news about the U.S. government : the NSA is spying on the web traffic of the entire world ! This makes the headline of every newspaper in the world, everybody is talking about it. Everyone wonders how they should behave on the Internet, now that they know every one of their searches is being collected. 
 
